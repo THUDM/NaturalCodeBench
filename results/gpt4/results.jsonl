@@ -1,0 +1,4 @@
+{"result": {"pass@k": {"pass@1": 48.6}, "time": 20.847211837768555}, "error": {"compile_error": 0.0, "execution_error": 21.4}, "ckpt_name": "gpt4", "benchmark": "ncb_python_en"}
+{"result": {"pass@k": {"pass@1": 57.1}, "time": 3.4090349674224854}, "error": {"compile_error": 25.7, "execution_error": 0.0}, "ckpt_name": "gpt4", "benchmark": "ncb_java_en"}
+{"result": {"pass@k": {"pass@1": 51.4}, "time": 26.841348886489868}, "error": {"compile_error": 0.0, "execution_error": 27.1}, "ckpt_name": "gpt4", "benchmark": "ncb_python_zh"}
+{"result": {"pass@k": {"pass@1": 64.3}, "time": 422.37014055252075}, "error": {"compile_error": 22.9, "execution_error": 0.0}, "ckpt_name": "gpt4", "benchmark": "ncb_java_zh"}

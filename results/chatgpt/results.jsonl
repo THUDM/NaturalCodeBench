@@ -1,0 +1,4 @@
+{"result": {"pass@k": {"pass@1": 37.1}, "time": 9.931342124938965}, "error": {"compile_error": 0.0, "execution_error": 27.1}, "ckpt_name": "chatgpt", "benchmark": "ncb_python_en"}
+{"result": {"pass@k": {"pass@1": 41.4}, "time": 3.86146879196167}, "error": {"compile_error": 37.1, "execution_error": 0.0}, "ckpt_name": "chatgpt", "benchmark": "ncb_java_en"}
+{"result": {"pass@k": {"pass@1": 38.6}, "time": 9.652682781219482}, "error": {"compile_error": 0.0, "execution_error": 34.3}, "ckpt_name": "chatgpt", "benchmark": "ncb_python_zh"}
+{"result": {"pass@k": {"pass@1": 38.6}, "time": 3.763627290725708}, "error": {"compile_error": 38.6, "execution_error": 0.0}, "ckpt_name": "chatgpt", "benchmark": "ncb_java_zh"}
