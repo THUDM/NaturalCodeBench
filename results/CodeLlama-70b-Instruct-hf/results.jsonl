@@ -1,4 +1,0 @@
-{"result": {"pass@k": {"pass@1": 35.7}, "time": 9.89027714729309}, "error": {"compile_error": 4.3, "execution_error": 28.6}, "ckpt_name": "CodeLlama-70b-Instruct-hf", "benchmark": "ncb_python_en"}
-{"result": {"pass@k": {"pass@1": 35.7}, "time": 3.7606687545776367}, "error": {"compile_error": 44.3, "execution_error": 0.0}, "ckpt_name": "CodeLlama-70b-Instruct-hf", "benchmark": "ncb_java_en"}
-{"result": {"pass@k": {"pass@1": 30.0}, "time": 10.211288452148438}, "error": {"compile_error": 7.1, "execution_error": 28.6}, "ckpt_name": "CodeLlama-70b-Instruct-hf", "benchmark": "ncb_python_zh"}
-{"result": {"pass@k": {"pass@1": 30.0}, "time": 3.788269281387329}, "error": {"compile_error": 44.3, "execution_error": 0.0}, "ckpt_name": "CodeLlama-70b-Instruct-hf", "benchmark": "ncb_java_zh"}

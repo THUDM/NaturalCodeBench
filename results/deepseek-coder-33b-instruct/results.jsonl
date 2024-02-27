@@ -1,4 +1,0 @@
-{"result": {"pass@k": {"pass@1": 35.7}, "time": 9.826969146728516}, "error": {"compile_error": 0.0, "execution_error": 34.3}, "ckpt_name": "deepseek-coder-33b-instruct", "benchmark": "ncb_python_en"}
-{"result": {"pass@k": {"pass@1": 41.4}, "time": 3.5954172611236572}, "error": {"compile_error": 32.9, "execution_error": 0.0}, "ckpt_name": "deepseek-coder-33b-instruct", "benchmark": "ncb_java_en"}
-{"result": {"pass@k": {"pass@1": 41.4}, "time": 466.65940594673157}, "error": {"compile_error": 0.0, "execution_error": 27.1}, "ckpt_name": "deepseek-coder-33b-instruct", "benchmark": "ncb_python_zh"}
-{"result": {"pass@k": {"pass@1": 40.0}, "time": 3.525024175643921}, "error": {"compile_error": 31.4, "execution_error": 0.0}, "ckpt_name": "deepseek-coder-33b-instruct", "benchmark": "ncb_java_zh"}
