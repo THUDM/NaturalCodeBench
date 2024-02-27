@@ -6,7 +6,7 @@ This repository contains information, data and code of NaturalCodeBench: A Chall
 
 Current benchmarks for code synthesis, such as HumanEval, MBPP, and DS-1000, are predominantly oriented towards introductory algorithmic and data science tasks, and do not adequately encompass the diverse requirements prevalent in real coding scenarios, like operating systems, and front-end devloping, and software engineering. To fill this gap, we propose  NaturalCodeBench (NCB), a comprehensive code benchmark designed to mirror the complexity and variety of scenarios in real coding tasks. NCB comprises 402 high-quality problems in Python and Java, meticulously selected from an online coding service, covering seven different domains. We also introduce a semi-automated pipeline that leverages GPT-4 to enhance the efficiency of test case construction. Our semi-automated pipeline, when compared experimentally with manually written reference solutions and test cases, exhibits a substantial efficiency improvement, achieving an increase of more than four times.We conduct systematic experiments on 31 LLMs and find that performance gaps on \model between models with close HumanEval scores could still be significant, indicating a lack of optimization on practical code synthesis scenarios. At the same time, even the best-performing GPT-4 is still far from perfect.
 
-![overview](assets\overview.png)
+![overview](https://github.com/Daniel-0222/NaturalCodeBench/blob/dev/assets/overview.png)
 
 The overall framework of NaturalCodeBench is shown in the above image, including the data collection pipeline and the semi-automated pipeline.
 
