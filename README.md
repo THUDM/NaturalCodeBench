@@ -110,7 +110,7 @@ docker pull codegeex/codegeex:0.1.22
 Then start Docker and mount the code directory.
 
 ```bash
-docker run --rm -it --shm-size 32g -v /path/to/NaturalCodeBech:/ncb codegeex/codegeex:0.1.22 /bin/bash
+docker run --rm -it --shm-size 32g -v /path/to/NaturalCodeBech:/NaturalCodeBench codegeex/codegeex:0.1.22 /bin/bash
 ```
 
 ## Usage
