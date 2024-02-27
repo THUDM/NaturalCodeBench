@@ -121,7 +121,7 @@ Generate samples and save them in the following JSON Lines (jsonl) format, where
 {"_id": "NaturalCodeBench Problem ID", "response": "The response of model without prompt"}
 ```
 
-Place your JSONL files into the `result` directory according to the following directory structure.
+Place your JSONL files into the `results` directory according to the following directory structure.
 
 ```
 results/
