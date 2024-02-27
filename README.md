@@ -86,13 +86,13 @@ The data format is as follows.
 
 | Dependency | Version  |
 | ---------- | -------- |
-| Python     | 3.10.13  |
+| Python     | 3.8.12   |
 | JDK        | 18.0.2.1 |
 
 Clone this repo and install the dependencies.
 
 ```bash
-conda create -n ncb python=3.10.13
+conda create -n ncb python=3.8.12
 conda activate ncb
 git clone https://github.com/Daniel-0222/NaturalCodeBench
 cd NaturalCodeBench
