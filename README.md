@@ -89,7 +89,7 @@ The data format is as follows.
 | Python     | 3.10.13  |
 | JDK        | 18.0.2.1 |
 
-Clone this repo and install the dependencies. Make sure to use python 3.10.13 or later:
+Clone this repo and install the dependencies.
 
 ```bash
 conda create -n ncb python=3.10.13
@@ -104,7 +104,7 @@ pip install -r requirements.txt
 We strongly recommend you to use docker to setup the environment. Firstly pull the image.
 
 ```
-docker pull codegeex/codegeex:0.2.22
+docker pull codegeex/codegeex:0.1.22
 ```
 
 Then start Docker and mount the code directory.
