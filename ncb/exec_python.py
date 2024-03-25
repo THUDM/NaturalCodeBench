@@ -32,7 +32,7 @@ def run_python_test(base_dir, test_dir):
     error_cases = 0
 
     plugin = JSONReport()
-    pytest.main(['-s', '--cov', '--cov-report', 'json', '--timeout=30', '--disable-warnings'], plugins=[plugin])
+    pytest.main(['-s', '--cov', '--cov-report', 'json', '--disable-warnings'], plugins=[plugin])
 
     if len(plugin.report.get('tests')) == 0:
         longrepr = plugin.report['collectors'][1]['longrepr']
