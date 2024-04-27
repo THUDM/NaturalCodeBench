@@ -87,13 +87,20 @@ The data format is as follows.
 We provide a docker to setup the environment. Firstly pull the image.
 
 ```
-docker pull codegeex/codegeex:0.1.22
+docker pull codegeex/codegeex:0.1.23
 ```
 
 Then start Docker and mount the code directory.
 
 ```bash
-docker run --rm -it --shm-size 32g -v /path/to/NaturalCodeBech:/NaturalCodeBench codegeex/codegeex:0.1.22 /bin/bash
+docker run --rm -it --shm-size 32g -v /path/to/NaturalCodeBench:/ncb codegeex/codegeex:0.1.23 /bin/bash
+```
+
+Copy data into repository.
+
+```
+cd /ncb
+cp -r /NaturalCodeBench/data .
 ```
 
 ## Usage
