@@ -6,7 +6,7 @@ This repository contains information, data and code of NaturalCodeBench: A Chall
 
 We propose  NaturalCodeBench (NCB), a comprehensive code benchmark designed to mirror the complexity and variety of scenarios in real coding tasks. NCB comprises 402 high-quality problems in Python and Java, meticulously selected from an online coding service, covering seven different domains. 
 
-![overview](https://github.com/Daniel-0222/NaturalCodeBench/blob/dev/assets/overview.png)
+![overview](https://github.com/THUDM/NaturalCodeBench/tree/main/assets/overview.png)
 
 The overall framework of NaturalCodeBench is shown in the above image, including the data collection pipeline and the semi-automated pipeline.
 
