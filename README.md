@@ -138,10 +138,10 @@ We report  our evaluation results of 31 LLMs on the test and dev datasets.
 
 Test set results:
 
-![overview](https://github.com/Daniel-0222/NaturalCodeBench/blob/dev/assets/test_set_results.png)
+![overview](https://github.com/THUDM/NaturalCodeBench/tree/main/assets/test_set_results.png)
 
 
 
 Dev set result:
 
-![overview](https://github.com/Daniel-0222/NaturalCodeBench/blob/dev/assets/dev_set_results.png)
+![overview](https://github.com/THUDM/NaturalCodeBench/tree/main/assets/dev_set_results.png)
