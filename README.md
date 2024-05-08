@@ -4,7 +4,7 @@ This repository contains information, data and code of NaturalCodeBench: A Chall
 
 ## 📌Introduction
 
-We propose  NaturalCodeBench (NCB), a comprehensive code benchmark designed to mirror the complexity and variety of scenarios in real coding tasks. NCB comprises 402 high-quality problems in Python and Java, meticulously selected from an online coding service, covering seven different domains. 
+We propose  NaturalCodeBench (NCB), a comprehensive code benchmark designed to mirror the complexity and variety of scenarios in real coding tasks. NCB comprises 402 high-quality problems in Python and Java, meticulously selected from an online coding service, covering 6 different domains. 
 
 ![overview](assets/overview.png)
 
@@ -14,7 +14,7 @@ For a full description of NaturalCodeBench, please refer to the paper:
 
 ## Dataset Summary
 
-To construct a challenging application-driven dataset for code synthesis evaluation, the seed problems of NCB are cleaned from the queries in coding online services, spanning across 7 domains: Database, Artificial Intelligence, Data Science, Algorithm and Data Structure, Front-End, Software Engineering, and Operation System.
+To construct a challenging application-driven dataset for code synthesis evaluation, the seed problems of NCB are cleaned from the queries in coding online services, spanning across 6 domains: Artificial Intelligence, Data Science, Algorithm and Data Structure, Front-End, Software Engineering, and System Administration.
 
 <table style="width: 50%;">
     <tr>
@@ -45,16 +45,16 @@ To construct a challenging application-driven dataset for code synthesis evaluat
         <td align="center">95</td>
     </tr>
     <tr>
+        <td>System Administration</td>
+        <td align="center">22</td>
+        <td align="center">17</td>
+        <td align="center">33</td>
+    </tr>
+    <tr>
         <td>Artificial Intelligence</td>
         <td align="center">15</td>
         <td align="center">13</td>
         <td align="center">28</td>
-    </tr>
-    <tr>
-        <td>Operation System</td>
-        <td align="center">15</td>
-        <td align="center">12</td>
-        <td align="center">27</td>
     </tr>
     <tr>
         <td>Front-End</td>
@@ -62,13 +62,8 @@ To construct a challenging application-driven dataset for code synthesis evaluat
         <td align="center">3</td>
         <td align="center">14</td>
     </tr>
-    <tr>
-        <td>Database</td>
-        <td align="center">1</td>
-        <td align="center">5</td>
-        <td align="center">6</td>
-    </tr>
 </table>
+
 
 NaturalCodeBench contains 402 high-quality problems in total. We release the development set of NCB, which contains 140 problems (70 in Python and 70 in Java) for research purpose. The data is placed in ...
 
