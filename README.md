@@ -129,7 +129,7 @@ python ncb/evaluate.py --languages python java --natural_lang zh en --ckpt_name 
 
 ## Leaderboard
 
-We report  our evaluation results of 31 LLMs on the test and dev datasets.
+We report  our evaluation results of 39 LLMs on the test and dev datasets.
 
 Test set results:
 
