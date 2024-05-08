@@ -96,7 +96,7 @@ Then start Docker and mount the code directory.
 docker run --rm -it --shm-size 32g -v /path/to/NaturalCodeBench:/ncb codegeex/codegeex:0.1.23 /bin/bash
 ```
 
-Copy data into repository.
+After starting the Docker shell, transfer data into the repository.
 
 ```
 cd /ncb
