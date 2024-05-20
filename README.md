@@ -10,7 +10,7 @@ We propose  NaturalCodeBench (NCB), a comprehensive code benchmark designed to m
 
 The overall framework of NaturalCodeBench is shown in the above image, including the data collection pipeline and the semi-automated pipeline.
 
-For a full description of NaturalCodeBench, please refer to the paper: 
+For a full description of NaturalCodeBench, please refer to the paper:  https://arxiv.org/abs/2405.04520
 
 ## Dataset Summary
 
@@ -140,3 +140,19 @@ Test set results:
 Dev set result:
 
 ![overview](assets/dev_set_results.png)
+
+
+
+## Citation
+
+```
+@misc{zhang2024naturalcodebench,
+      title={NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts}, 
+      author={Shudan Zhang and Hanlin Zhao and Xiao Liu and Qinkai Zheng and Zehan Qi and Xiaotao Gu and Xiaohan Zhang and Yuxiao Dong and Jie Tang},
+      year={2024},
+      eprint={2405.04520},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
