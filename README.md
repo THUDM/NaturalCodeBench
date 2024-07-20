@@ -1,4 +1,4 @@
-# NaturalCodeBench: A Challenging Application-Driven Dataset for Code Synthesis Evaluation
+# NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts
 
 This repository contains information, data and code of NaturalCodeBench: A Challenging Application-Driven Dataset for Code Synthesis Evaluation.
 
