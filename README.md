@@ -1,4 +1,4 @@
-# NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts
+# NaturalCodeBench (ACL 2024 Findings)
 
 This repository contains information, data and code of NaturalCodeBench: A Challenging Application-Driven Dataset for Code Synthesis Evaluation.
 
@@ -146,13 +146,28 @@ Dev set result:
 ## Citation
 
 ```
-@misc{zhang2024naturalcodebench,
-      title={NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts}, 
-      author={Shudan Zhang and Hanlin Zhao and Xiao Liu and Qinkai Zheng and Zehan Qi and Xiaotao Gu and Xiaohan Zhang and Yuxiao Dong and Jie Tang},
-      year={2024},
-      eprint={2405.04520},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{zhang-etal-2024-naturalcodebench,
+    title = "{N}atural{C}ode{B}ench: Examining Coding Performance Mismatch on {H}uman{E}val and Natural User Queries",
+    author = "Zhang, Shudan  and
+      Zhao, Hanlin  and
+      Liu, Xiao  and
+      Zheng, Qinkai  and
+      Qi, Zehan  and
+      Gu, Xiaotao  and
+      Dong, Yuxiao  and
+      Tang, Jie",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.471",
+    doi = "10.18653/v1/2024.findings-acl.471",
+    pages = "7907--7928"
 }
+
 ```
 
